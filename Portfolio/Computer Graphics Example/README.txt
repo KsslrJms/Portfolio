@@ -1,0 +1,1 @@
+This is a 3D model of a Sierpinski carpet, with adjustable levels of subdivisions, implemented lighting and metal texture with a normal map, and an option to rotate the cubes along their relative X, Y, and Z axis in either direction.
