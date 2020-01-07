@@ -1,1 +1,2 @@
 This is a 3D model of a Sierpinski carpet, with adjustable levels of subdivisions, implemented lighting and metal texture with a normal map, and an option to rotate the cubes along their relative X, Y, and Z axis in either direction.
+DISCLAIMER: I did not create any of the code utilised in the Common folder. Those are just files that are necessary for WebGL to function properly. I also did not create the texture or normal map.
